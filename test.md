@@ -21,8 +21,6 @@ Decide where you will install Bolt. You have the choice of installing Bolt onto 
 * [Windows](#windows)
 * [Linux](#linux)
 
-~~~PAGEBREAK~~~
-
 ## Windows
 
 ### Connect to the agent
@@ -62,8 +60,6 @@ Next, you'll validate the installation is working. Open a new PowerShell prompt 
 
 .callout.info Your version will likely vary, and this is not a problem.
 
-~~~PAGEBREAK~~~
-
 ## Linux
 
 .callout.info The steps below detail connecting to your Linux machine from your student Windows machine (used above). If you would rather connect directly from your own laptop you can, however you will have to translate these instructions to the utilities you are using. The private key for the Linux machine can be downloaded from the Welcome page.
@@ -98,8 +94,6 @@ For this lab you'll be leveraging the built-in package manager to install Bolt.
     * When the install is done, restart PowerShell
     * You can then use the credentials already on the host
 1. Re-open PowerShell and type in `ssh centos@<your-linux-machine>.classroom.puppet.com`
-
-~~~PAGEBREAK~~~
 
 ### Step 1
 
